@@ -7,9 +7,9 @@ title: About Me
 
 ![Profile picture](https://github.com/achopijocoder.png?size=200)
 
-I'm a developer passionate about doing new things, testing new technologies, automation, and building useful tools.  
-I currently work for a private company and several personal projects.
-I like to participate in reviewing technical books about programming [See my list of reviewed books](https://github.com/achopijocoder/Manning-Reviewed-Books)
+- I'm a developer passionate about doing new things, testing new technologies, automation, and building useful tools.  
+- I currently work for a private company and several personal projects.
+- I like to participate in reviewing technical books about programming [See my list of reviewed books](https://github.com/achopijocoder/Manning-Reviewed-Books)
 
 ---
 
